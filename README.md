@@ -27,6 +27,6 @@ TSTScoreHelperInstallerMax.zip is the program installer for Mac.
 
 TSTScoreHelper_FullCode.m is the raw MATLAB code for the program.
 
-example_rescoring_filepath_spreadsheet.xlsx is the template spreadsheet required for rescoring.
+example_rescoring_filepath_spreadsheet.csv is the template spreadsheet required for rescoring.
 
-example_scoring_filepath_spreadsheet.xlsx is the template spreadsheet required for scoring.
+example_scoring_filepath_spreadsheet.csv is the template spreadsheet required for scoring.
